@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 17:16:01",
+  "sys_id": "ef5cfbc6db704010343f58b3ca96196c",
+  "sys_mod_count": 0,
+  "sys_name": "x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user",
+  "sys_package": "275cbfc6dbfc0010343f58b3ca96197e",
+  "sys_policy": null,
+  "sys_scope": "275cbfc6dbfc0010343f58b3ca96197e",
+  "sys_update_name": "sys_security_acl_role_ef5cfbc6db704010343f58b3ca96196c",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 17:16:01",
+  "transaction_id": null
+}

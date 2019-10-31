@@ -1,0 +1,23 @@
+{
+  "element": "address1",
+  "help": null,
+  "hint": null,
+  "label": "Address1",
+  "language": "en",
+  "name": "x_308211_demo_nci_scoped_app_table",
+  "plural": "Address1s",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-10-31 17:53:57",
+  "sys_id": "570540dedb704010343f58b3ca961975",
+  "sys_mod_count": 0,
+  "sys_name": "Address1",
+  "sys_package": "275cbfc6dbfc0010343f58b3ca96197e",
+  "sys_policy": null,
+  "sys_scope": "275cbfc6dbfc0010343f58b3ca96197e",
+  "sys_update_name": "sys_documentation_x_308211_demo_nci_scoped_app_table_address1_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-10-31 17:53:57",
+  "url": null,
+  "url_target": null
+}

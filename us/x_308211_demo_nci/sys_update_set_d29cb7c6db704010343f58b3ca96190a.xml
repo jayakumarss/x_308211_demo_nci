@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-10-31 17:17:15">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<application_name>Demo NCI Scoped App</application_name>
+<application_scope>x_308211_demo_nci</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by CICD Process</description>
+<inserted/>
+<name>Demo NCI Scoped App - 1.0.0</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>d29cb7c6db704010343f58b3ca96190a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>25ac3fc6db704010343f58b3ca96199f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_db_object_675cbfc6dbfc0010343f58b3ca96197e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Demo Nci Scoped App Table</label><live_feed_enabled>false</live_feed_enabled><name>x_308211_demo_nci_scoped_app_table</name><number_ref/><provider_class/><read_access>true</read_access><super_class display_value="Task" name="task">29c855b47420330078509adcc48c8788</super_class><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>675cbfc6dbfc0010343f58b3ca96197e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo NCI Scoped App Table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_db_object_675cbfc6dbfc0010343f58b3ca96197e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><update_access>false</update_access><user_role display_value="x_308211_demo_nci.user" name="x_308211_demo_nci.user">635cfbc6db704010343f58b3ca961946</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+<payload_hash>-672002770</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>21acf30adb704010343f58b3ca96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20ef70000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>Demo Nci Scoped App Table</target_name>
+<type>Table</type>
+<update_domain>global</update_domain>
+<update_guid>1e9c730a21704010561951d7e3d408a4</update_guid>
+<update_guid_history>1e9c730a21704010561951d7e3d408a4:-672002770,7b5cfbc6e270401059aba2bda83c44fe:430508334</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_module_fb5c3fc6db704010343f58b3ca961904</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Demo NCI Scoped App">335c3fc6db704010343f58b3ca961903</application><filter/><name>Demo NCI Scoped App Table</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_308211_demo_nci.user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb5c3fc6db704010343f58b3ca961904</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo NCI Scoped App Table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_ui_module_fb5c3fc6db704010343f58b3ca961904</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:02</sys_updated_on><table>x_308211_demo_nci_scoped_app_table</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+<payload_hash>554341963</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>25acf30adb704010343f58b3ca96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20fe20000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>Demo NCI Scoped App Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>ee9c730a14704010bdbfe68032a44ac2</update_guid>
+<update_guid_history>ee9c730a14704010bdbfe68032a44ac2:554341963,fb5c3fc6fb70401053e1790374dc1e05:554341963</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_735cfbc6db704010343f58b3ca961990</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>735cfbc6db704010343f58b3ca961990</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_security_acl display_value="x_308211_demo_nci_scoped_app_table">7b5cfbc6db704010343f58b3ca961974</sys_security_acl><sys_update_name>sys_security_acl_role_735cfbc6db704010343f58b3ca961990</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><sys_user_role display_value="x_308211_demo_nci.user" name="x_308211_demo_nci.user">635cfbc6db704010343f58b3ca961946</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-630666582</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>29acf30adb704010343f58b3ca96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20f6d0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>d29c730a23704010193e299410a9a0ba</update_guid>
+<update_guid_history>d29c730a23704010193e299410a9a0ba:-630666582,7f5cfbc6c37040107ad10d0b52fe5291:-630666582</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_7b5cfbc6db704010343f58b3ca961974</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_demo_nci_scoped_app_table</description><name>x_308211_demo_nci_scoped_app_table</name><operation display_value="delete">delete</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>7b5cfbc6db704010343f58b3ca961974</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_security_acl_7b5cfbc6db704010343f58b3ca961974</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-1378080390</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>2dacf30adb704010343f58b3ca96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20f220000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>x_308211_demo_nci_scoped_app_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>129c730a0a704010122206824304d8a8</update_guid>
+<update_guid_history>129c730a0a704010122206824304d8a8:-1378080390,f75cfbc6b3704010cfd566cef12d7b8f:-1378080390</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_module_fb5c3fc6db704010343f58b3ca961900</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Demo NCI Scoped App">a75c7bc6db704010343f58b3ca96195e</application><assessment/><content_page/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Demo NCI Scoped App Table</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_308211_demo_nci_scoped_app_table</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_308211_demo_nci.user</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>fb5c3fc6db704010343f58b3ca961900</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo NCI Scoped App Table</sys_name><sys_overrides/><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_app_module_fb5c3fc6db704010343f58b3ca961900</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:02</sys_updated_on><timeline_page/><title>Demo NCI Scoped App Table</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+<payload_hash>243563881</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>61ac3fc6db704010343f58b3ca9619a0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20fce0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>Demo NCI Scoped App Table</target_name>
+<type>Module</type>
+<update_domain>global</update_domain>
+<update_guid>a69c730ac370401016abef8fe62ea8c1</update_guid>
+<update_guid_history>a69c730ac370401016abef8fe62ea8c1:243563881,b35c3fc683704010a52bb843b4528a02:243563881</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_ui_application_335c3fc6db704010343f58b3ca961903</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>Demo NCI Scoped App</name><order/><roles>x_308211_demo_nci.user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:02</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>335c3fc6db704010343f58b3ca961903</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo NCI Scoped App</sys_name><sys_overrides/><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_ui_application_335c3fc6db704010343f58b3ca961903</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:02</sys_updated_on></sys_ui_application></record_update>]]></payload>
+<payload_hash>1496128882</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>61acf30adb704010343f58b3ca96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20e950000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table/>
+<target_name>Demo NCI Scoped App</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>529cb7c67d704010046077f69c498e0e</update_guid>
+<update_guid_history>529cb7c67d704010046077f69c498e0e:1496128882,ff5c3fc603704010d45dcf672a1f0903:1496128882</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_735cfbc6db704010343f58b3ca961972</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>735cfbc6db704010343f58b3ca961972</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_security_acl display_value="x_308211_demo_nci_scoped_app_table">e75cfbc6db704010343f58b3ca96196f</sys_security_acl><sys_update_name>sys_security_acl_role_735cfbc6db704010343f58b3ca961972</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><sys_user_role display_value="x_308211_demo_nci.user" name="x_308211_demo_nci.user">635cfbc6db704010343f58b3ca961946</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>969178596</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>65acf30adb704010343f58b3ca96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20f5b0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>569c730a8e704010cf0a7eafbd1c4aac</update_guid>
+<update_guid_history>569c730a8e704010cf0a7eafbd1c4aac:969178596,7f5cfbc6747040102af21810710da473:969178596</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_675cfbc6db704010343f58b3ca96196a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_demo_nci_scoped_app_table</description><name>x_308211_demo_nci_scoped_app_table</name><operation display_value="read">read</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>675cfbc6db704010343f58b3ca96196a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_security_acl_675cfbc6db704010343f58b3ca96196a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-607082928</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>69acf30adb704010343f58b3ca96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20f100000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>x_308211_demo_nci_scoped_app_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>9a9c730a6d70401096bd48948410a7a6</update_guid>
+<update_guid_history>9a9c730a6d70401096bd48948410a7a6:-607082928,675cfbc6347040100824a57babfa0c6c:-607082928</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>ua_table_licensing_config_f75cfbc6db704010343f58b3ca9619bb</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="INSERT_OR_UPDATE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_308211_demo_nci_scoped_app_table</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:02</sys_created_on><sys_id>f75cfbc6db704010343f58b3ca9619bb</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>ua_table_licensing_config_f75cfbc6db704010343f58b3ca9619bb</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:02</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+<payload_hash>587857115</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>6dacf30adb704010343f58b3ca96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20fbd0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table/>
+<target_name>x_308211_demo_nci_scoped_app_table</target_name>
+<type>Table Subscription Configuration</type>
+<update_domain>global</update_domain>
+<update_guid>ee9c730adb704010238a384ad51a97bf</update_guid>
+<update_guid_history>ee9c730adb704010238a384ad51a97bf:587857115,b75cfbc631704010f8bd8fc985a395bc:587857115</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_e75cfbc6db704010343f58b3ca96196f</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_demo_nci_scoped_app_table</description><name>x_308211_demo_nci_scoped_app_table</name><operation display_value="write">write</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>e75cfbc6db704010343f58b3ca96196f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_security_acl_e75cfbc6db704010343f58b3ca96196f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>1156156428</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>a1acf30adb704010343f58b3ca96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20f470000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>x_308211_demo_nci_scoped_app_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>1e9c730a1270401072b69c0d6de2d2aa</update_guid>
+<update_guid_history>1e9c730a1270401072b69c0d6de2d2aa:1156156428,e75cfbc6c5704010c6145a3a01582871:1156156428</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_documentation_x_308211_demo_nci_scoped_app_table__en</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_documentation element="" label="Demo NCI Scoped App Table" language="en" table="x_308211_demo_nci_scoped_app_table"><sys_documentation action="INSERT_OR_UPDATE"><element/><help/><hint/><label>Demo NCI Scoped App Table</label><language>en</language><name>x_308211_demo_nci_scoped_app_table</name><plural>Demo NCI Scoped App Tables</plural><sys_class_name>sys_documentation</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:02</sys_created_on><sys_id>375cfbc6db704010343f58b3ca9619b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo NCI Scoped App Table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_documentation_x_308211_demo_nci_scoped_app_table__en</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:02</sys_updated_on><url/><url_target/></sys_documentation></sys_documentation></record_update>]]></payload>
+<payload_hash>-757129346</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>a5acf30adb704010343f58b3ca96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20ea60000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>Demo NCI Scoped App Table</target_name>
+<type>Field Label</type>
+<update_domain>global</update_domain>
+<update_guid>5a9cb7c6ca7040105b54b1bac9381c0f</update_guid>
+<update_guid_history>5a9cb7c6ca7040105b54b1bac9381c0f:-757129346,f35cfbc6ec704010e3e756909d83e5bf:-757129346</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_wizard_answer_fb5cfbc6db704010343f58b3ca961999</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_wizard_answer"><sys_wizard_answer action="INSERT_OR_UPDATE"><active>true</active><answer>Demo NCI Scoped App Table</answer><button_label/><dependent_value/><element/><name>Demo NCI Scoped App Table</name><next_question/><order>100</order><payload_name/><question display_value="Task" name="Task">2dc855b47420330078509adcc48c8789</question><roles/><script/><sys_class_name>sys_wizard_answer</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:02</sys_created_on><sys_id>fb5cfbc6db704010343f58b3ca961999</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Demo NCI Scoped App Table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_wizard_answer_fb5cfbc6db704010343f58b3ca961999</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:02</sys_updated_on><table/><target_url>x_308211_demo_nci_scoped_app_table.do</target_url><type>1</type></sys_wizard_answer></record_update>]]></payload>
+<payload_hash>-1980978187</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>a9acf30adb704010343f58b3ca96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20ffb0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table/>
+<target_name>Demo NCI Scoped App Table</target_name>
+<type>Answer</type>
+<update_domain>global</update_domain>
+<update_guid>aa9c730a9970401070eee88d1c335cc4</update_guid>
+<update_guid_history>aa9c730a9970401070eee88d1c335cc4:-1980978187</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_a75c7bc6db704010343f58b3ca96195e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>Demo NCI Scoped App</name><order/><roles>x_308211_demo_nci.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a75c7bc6db704010343f58b3ca96195e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Demo NCI Scoped App</sys_name><sys_overrides/><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_app_application_a75c7bc6db704010343f58b3ca96195e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><title>Demo NCI Scoped App</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>796486692</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>adac3fc6db704010343f58b3ca96199f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20fa80000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table/>
+<target_name>Demo NCI Scoped App</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>1a9c730a5d704010ee288e50fc2f54be</update_guid>
+<update_guid_history>1a9c730a5d704010ee288e50fc2f54be:796486692,275cfbc6bd70401030ab1885cc21fe52:796486692,6f5cfbc69c7040100d0616a032b3e244:-303213225</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_ef5cfbc6db704010343f58b3ca96196c</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>ef5cfbc6db704010343f58b3ca96196c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_security_acl display_value="x_308211_demo_nci_scoped_app_table">675cfbc6db704010343f58b3ca96196a</sys_security_acl><sys_update_name>sys_security_acl_role_ef5cfbc6db704010343f58b3ca96196c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><sys_user_role display_value="x_308211_demo_nci.user" name="x_308211_demo_nci.user">635cfbc6db704010343f58b3ca961946</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-1400930322</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>adacf30adb704010343f58b3ca96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20f980000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>529c730aa87040107bafa38bd48e51bd</update_guid>
+<update_guid_history>529c730aa87040107bafa38bd48e51bd:-1400930322,eb5cfbc6bb7040107e67143a81925b6e:-1400930322</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_dictionary_x_308211_demo_nci_scoped_app_table_null</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update&gt;&lt;sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_308211_demo_nci_scoped_app_table"&gt;&lt;active&gt;true&lt;/active&gt;&lt;array&gt;false&lt;/array&gt;&lt;array_denormalized&gt;false&lt;/array_denormalized&gt;&lt;attributes/&gt;&lt;audit&gt;false&lt;/audit&gt;&lt;calculation&gt;&lt;![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]&gt;&lt;/calculation&gt;&lt;choice/&gt;&lt;choice_field/&gt;&lt;choice_table/&gt;&lt;column_label/&gt;&lt;comments/&gt;&lt;create_roles/&gt;&lt;default_value/&gt;&lt;defaultsort/&gt;&lt;delete_roles/&gt;&lt;dependent/&gt;&lt;dependent_on_field/&gt;&lt;display&gt;false&lt;/display&gt;&lt;dynamic_creation&gt;false&lt;/dynamic_creation&gt;&lt;dynamic_creation_script/&gt;&lt;dynamic_default_value/&gt;&lt;dynamic_ref_qual/&gt;&lt;element/&gt;&lt;element_reference&gt;false&lt;/element_reference&gt;&lt;foreign_database/&gt;&lt;function_definition/&gt;&lt;function_field&gt;false&lt;/function_field&gt;&lt;internal_type display_value="Collection"&gt;collection&lt;/internal_type&gt;&lt;mandatory&gt;false&lt;/mandatory&gt;&lt;max_length&gt;40&lt;/max_length&gt;&lt;name&gt;x_308211_demo_nci_scoped_app_table&lt;/name&gt;&lt;next_element/&gt;&lt;primary&gt;false&lt;/primary&gt;&lt;read_only&gt;false&lt;/read_only&gt;&lt;read_roles/&gt;&lt;reference/&gt;&lt;reference_cascade_rule/&gt;&lt;reference_floats&gt;false&lt;/reference_floats&gt;&lt;reference_key/&gt;&lt;reference_qual/&gt;&lt;reference_qual_condition/&gt;&lt;reference_type/&gt;&lt;sizeclass/&gt;&lt;spell_check&gt;false&lt;/spell_check&gt;&lt;staged&gt;false&lt;/staged&gt;&lt;sys_class_name&gt;sys_dictionary&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-10-31 17:16:01&lt;/sys_created_on&gt;&lt;sys_id&gt;3b5cfbc6db704010343f58b3ca961992&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;x_308211_demo_nci_scoped_app_table&lt;/sys_name&gt;&lt;sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci"&gt;275cbfc6dbfc0010343f58b3ca96197e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo NCI Scoped App"&gt;275cbfc6dbfc0010343f58b3ca96197e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_dictionary_x_308211_demo_nci_scoped_app_table_null&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-10-31 17:16:01&lt;/sys_updated_on&gt;&lt;table_reference&gt;false&lt;/table_reference&gt;&lt;text_index&gt;false&lt;/text_index&gt;&lt;unique&gt;false&lt;/unique&gt;&lt;use_dependent_field&gt;false&lt;/use_dependent_field&gt;&lt;use_dynamic_default&gt;false&lt;/use_dynamic_default&gt;&lt;use_reference_qualifier&gt;simple&lt;/use_reference_qualifier&gt;&lt;virtual&gt;false&lt;/virtual&gt;&lt;widget/&gt;&lt;write_roles/&gt;&lt;xml_view&gt;false&lt;/xml_view&gt;&lt;/sys_dictionary&gt;&lt;/record_update&gt;</payload>
+<payload_hash>639035765</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>e1acf30adb704010343f58b3ca96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20ebb0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>Demo NCI Scoped App Table</target_name>
+<type>Dictionary</type>
+<update_domain>global</update_domain>
+<update_guid>569c730a5370401012e2d5a4597cc5a1</update_guid>
+<update_guid_history>569c730a5370401012e2d5a4597cc5a1:639035765,335cfbc6e870401081c47e9a180fa3be:639035765</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_275cbfc6dbfc0010343f58b3ca96197e</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><can_edit_in_studio>false</can_edit_in_studio><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="Demo NCI Scoped App">a75c7bc6db704010343f58b3ca96195e</menu><name>Demo NCI Scoped App</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_308211_demo_nci</scope><scoped_administration>false</scoped_administration><short_description/><source>x_308211_demo_nci</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>275cbfc6dbfc0010343f58b3ca96197e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><template/><trackable>true</trackable><user_role display_value="x_308211_demo_nci.user" name="x_308211_demo_nci.user">635cfbc6db704010343f58b3ca961946</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>-1480769281</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>e5ac3fc6db704010343f58b3ca96199f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20e810000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table/>
+<target_name>Demo NCI Scoped App</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>1a9cb7c627704010824adb0f0d39a30c</update_guid>
+<update_guid_history>1a9cb7c627704010824adb0f0d39a30c:-1480769281,af5cfbc68a70401028ce8f4bd69ab74e:-1480769281</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_635cfbc6db704010343f58b3ca961946</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_308211_demo_nci.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>635cfbc6db704010343f58b3ca961946</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci.user</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_user_role_635cfbc6db704010343f58b3ca961946</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1574012513</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>e5acf30adb704010343f58b3ca96190c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20ed20000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table/>
+<target_name>x_308211_demo_nci.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>5e9c730a967040108a5331c051fc6aa2</update_guid>
+<update_guid_history>5e9c730a967040108a5331c051fc6aa2:1574012513,2b5cfbc67a704010f1a6a0cbcf43ad49:-565766065</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_role_ef5cfbc6db704010343f58b3ca96195a</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>ef5cfbc6db704010343f58b3ca96195a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_security_acl display_value="x_308211_demo_nci_scoped_app_table">ab5cfbc6db704010343f58b3ca961957</sys_security_acl><sys_update_name>sys_security_acl_role_ef5cfbc6db704010343f58b3ca96195a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><sys_user_role display_value="x_308211_demo_nci.user" name="x_308211_demo_nci.user">635cfbc6db704010343f58b3ca961946</sys_user_role><transaction_id/></sys_security_acl_role></record_update>]]></payload>
+<payload_hash>-728750331</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>e9acf30adb704010343f58b3ca96190b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20f850000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>x_308211_demo_nci_scoped_app_table.x_308211_demo_nci.user</target_name>
+<type>Access Roles</type>
+<update_domain>global</update_domain>
+<update_guid>9a9c730ae17040104b57b26262e48ebb</update_guid>
+<update_guid_history>9a9c730ae17040104b57b26262e48ebb:-728750331,2b5cfbc6a8704010d22083d13192d269:-728750331</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_security_acl_ab5cfbc6db704010343f58b3ca961957</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition/><description>Default access control on x_308211_demo_nci_scoped_app_table</description><name>x_308211_demo_nci_scoped_app_table</name><operation display_value="create">create</operation><script/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-10-31 17:16:01</sys_created_on><sys_id>ab5cfbc6db704010343f58b3ca961957</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_308211_demo_nci_scoped_app_table</sys_name><sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci">275cbfc6dbfc0010343f58b3ca96197e</sys_package><sys_policy/><sys_scope display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</sys_scope><sys_update_name>sys_security_acl_ab5cfbc6db704010343f58b3ca961957</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-10-31 17:16:01</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+<payload_hash>-734539108</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.0">25ac3fc6db704010343f58b3ca96199f</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-10-31 17:17:14</sys_created_on>
+<sys_id>edacf30adb704010343f58b3ca96190a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e22d20f340000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-10-31 17:17:14</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>x_308211_demo_nci_scoped_app_table</target_name>
+<type>Access Control</type>
+<update_domain>global</update_domain>
+<update_guid>969c730a1d704010b436a7f845bdeea9</update_guid>
+<update_guid_history>969c730a1d704010b436a7f845bdeea9:-734539108,275cfbc6567040106474cc094b01aa5a:-734539108</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

@@ -1,0 +1,24 @@
+{
+  "access": "package_private",
+  "active": true,
+  "api_name": "x_308211_demo_nci.DemoScopedTest",
+  "caller_access": null,
+  "client_callable": false,
+  "description": "Test script",
+  "name": "DemoScopedTest",
+  "script": {
+    "____see": "sn\\Demo NCI Scoped App\\Script Include\\active_true\\x_308211_demo_nci.DemoScopedTest.js"
+  },
+  "sys_class_name": "sys_script_include",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-14 14:25:52",
+  "sys_id": "328b1722db410010343f58b3ca961991",
+  "sys_mod_count": 0,
+  "sys_name": "DemoScopedTest",
+  "sys_package": "275cbfc6dbfc0010343f58b3ca96197e",
+  "sys_policy": "read",
+  "sys_scope": "275cbfc6dbfc0010343f58b3ca96197e",
+  "sys_update_name": "sys_script_include_328b1722db410010343f58b3ca961991",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-14 14:25:52"
+}

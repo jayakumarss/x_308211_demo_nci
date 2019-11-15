@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-11-15 15:13:14">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<application_name>Demo NCI Scoped App</application_name>
+<application_scope>x_308211_demo_nci</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo NCI Scoped App - 1.0.10</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Demo NCI Scoped App - 1.0.10">db103443dbcd0010343f58b3ca96199b</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>c9eeeccfdb8d0010343f58b3ca9619a2</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-15 15:13:13</sys_created_on>
+<sys_id>db103443dbcd0010343f58b3ca96199b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-15 15:13:14</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<application_name>Demo NCI Scoped App</application_name>
+<application_scope>x_308211_demo_nci</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description/>
+<inserted/>
+<name>Demo NCI Scoped App - 1.0.10</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value="Demo NCI Scoped App - 1.0.10">db103443dbcd0010343f58b3ca96199b</remote_base_update_set>
+<remote_parent_id/>
+<remote_sys_id>c9eeeccfdb8d0010343f58b3ca9619a2</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-15 15:13:13</sys_created_on>
+<sys_id>db103443dbcd0010343f58b3ca96199b</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-15 15:13:14</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo NCI Scoped App">275cbfc6dbfc0010343f58b3ca96197e</application>
+<category>customer</category>
+<comments/>
+<name>sys_script_client_c81fa403dbcd0010343f58b3ca961990</name>
+<payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Demo Test&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   //Type appropriate comment here, and begin script below
+   alert('test');
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2019-11-15 15:09:17&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;c81fa403dbcd0010343f58b3ca961990&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Demo Test&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Demo NCI Scoped App" source="x_308211_demo_nci"&gt;275cbfc6dbfc0010343f58b3ca96197e&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Demo NCI Scoped App"&gt;275cbfc6dbfc0010343f58b3ca96197e&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_c81fa403dbcd0010343f58b3ca961990&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2019-11-15 15:09:17&lt;/sys_updated_on&gt;&lt;table&gt;x_308211_demo_nci_scoped_app_table&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+<payload_hash>313584229</payload_hash>
+<remote_update_set display_value="Demo NCI Scoped App - 1.0.10">db103443dbcd0010343f58b3ca96199b</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>devops</sys_created_by>
+<sys_created_on>2019-11-15 15:13:13</sys_created_on>
+<sys_id>9f103443dbcd0010343f58b3ca96199b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16e6f9c7e3e0000001</sys_recorded_at>
+<sys_updated_by>devops</sys_updated_by>
+<sys_updated_on>2019-11-15 15:13:13</sys_updated_on>
+<table>x_308211_demo_nci_scoped_app_table</table>
+<target_name>Demo Test</target_name>
+<type>Client Script</type>
+<update_domain>global</update_domain>
+<update_guid>ed3f24036ecd0010d893d04784c92708</update_guid>
+<update_guid_history>ed3f24036ecd0010d893d04784c92708:313584229</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>

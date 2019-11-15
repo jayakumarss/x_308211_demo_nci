@@ -1,0 +1,31 @@
+{
+  "active": true,
+  "applies_extended": false,
+  "condition": null,
+  "description": null,
+  "field": "active",
+  "global": true,
+  "isolate_script": true,
+  "messages": null,
+  "name": "Demo Test",
+  "order": null,
+  "script": {
+    "____see": "sn\\Demo NCI Scoped App\\Client Script\\x_308211_demo_nci_scoped_app_table\\active_true\\Demo Test.js"
+  },
+  "sys_class_name": "sys_script_client",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-11-15 15:09:17",
+  "sys_id": "c81fa403dbcd0010343f58b3ca961990",
+  "sys_mod_count": 0,
+  "sys_name": "Demo Test",
+  "sys_package": "275cbfc6dbfc0010343f58b3ca96197e",
+  "sys_policy": null,
+  "sys_scope": "275cbfc6dbfc0010343f58b3ca96197e",
+  "sys_update_name": "sys_script_client_c81fa403dbcd0010343f58b3ca961990",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-11-15 15:09:17",
+  "table": "x_308211_demo_nci_scoped_app_table",
+  "type": "onLoad",
+  "ui_type": 10,
+  "view": null
+}
